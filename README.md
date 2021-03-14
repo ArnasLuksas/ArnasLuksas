@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArnasLuksas
+- 👋 Hi, I’m Arnas Luksas
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vanilla Java Script
 - 💞️ I’m looking any job which helps me to grow like developer
